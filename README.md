@@ -1,1 +1,1 @@
-# Drivendata-Modeling_Earthquake_Damage
+# Richter Predictor Modeling Earthquake Damage
